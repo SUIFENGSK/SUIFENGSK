@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUIFENGSK
-- 👀 I’m interested in Software Development, System Development & Web Design
+- 🕹️ I’m interested in Software Development, System Development & Web Design
 - 🌱 I’m currently learning Software Technology (BEng.) at Technical University of Denmark
 - 📫 How to reach me https://kkmstudio.familyds.com/
 
