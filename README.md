@@ -7,6 +7,9 @@
 SUIFENGSK/SUIFENGSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://komarev.com/ghpvc/?username=SUIFENGSK&color=blue)
+![](https://visitor-badge.glitch.me/badge?page_id=SUIFENGSK.profile)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=SUIFENGSK&show_icons=true&theme=dark)](https://github.com/SUIFENGSK/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUIFENGSK&theme=dark)](https://github.com/SUIFENGSK/github-readme-stats)
