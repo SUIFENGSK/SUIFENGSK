@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=SUIFENGSK&color=blue)
 ![](https://visitor-badge.glitch.me/badge?page_id=SUIFENGSK.profile)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=SUIFENGSK&show_icons=true&count_private=true&count_private=true&theme=dark)](https://github.com/SUIFENGSK/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=SUIFENGSK&show_icons=true&count_private=true&count_private=true&theme=dark)](https://github.com/SUIFENGSK/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUIFENGSK&count_private=true&theme=dark)](https://github.com/SUIFENGSK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUIFENGSK&count_private=true&theme=dark)](https://github.com/SUIFENGSK/)
