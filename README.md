@@ -1,7 +1,7 @@
 ### 📣 About me
 - 👋 Hi, I’m <a href="https://github.com/SUIFENGSK/">@SUIFENGSK</a>
 - 🕹️ I’m interested in Software Development, System Development & Web Design
-- 🤖 I’m currently learning Software Technology (BSc Eng) at <a href="https://www.dtu.dk">Technical University of Denmark (DTU)</a>
+- 🤖 I’m currently studying Software Technology (BSc Eng) at <a href="https://www.dtu.dk">Technical University of Denmark (DTU)</a>
 - 📫 How to reach me <a href="https://kkmstudio.familyds.com/">KKM-STUDIO</a>
 
 ![](https://komarev.com/ghpvc/?username=SUIFENGSK&color=blue)
