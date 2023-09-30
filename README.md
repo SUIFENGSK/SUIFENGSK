@@ -17,8 +17,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUIFENGSK&langs_count=10&theme=dark&layout=compact"/>
 </div>
 
+<!--
 ### 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUIFENGSK&theme=onestar)](https://github.com/SUIFENGSK/)
+-->
 
 <!--
 ### 🔖 Technologies I use
