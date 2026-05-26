@@ -14,8 +14,8 @@
 
 ### ⚡ GitHub Stats & Most Used Languages
 <div>
-<img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=SUIFENGSK&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUIFENGSK&langs_count=10&theme=dark&layout=compact"/>
+<img height="190" align="left" src="profile/stats.svg" />
+<img height="190" src="profile/top-langs.svg" />
 </div>
 
 <!--
