@@ -1,5 +1,8 @@
 name: Update README cards
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
@@ -21,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
       - name: Commit cards
